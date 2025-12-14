@@ -5,7 +5,7 @@
         <div class="container mx- auto px-6 1g:px-20">
             <div class="max-w-2x1">
                 <h1 class="text-5x1 font-extrabold mb-6">
-                    Build your Business From Web Projects
+                    PUSHING CLONE INTO GIT
                 </h1>
 
                 <p class="text-1g mb-8 text-gray-100">
